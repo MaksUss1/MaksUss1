@@ -1,4 +1,4 @@
-<h1 align="center">✨ Maksim Ussov ✨</h1>
+<h1 align="center">None</h1>
 <!--
 **MaksimUssov/MaksimUssov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
